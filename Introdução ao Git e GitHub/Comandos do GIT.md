@@ -14,6 +14,7 @@
   - mkdir + nome da pasta --> criar nova pasta
   - rmdir + nome da pasta --> remover pasta
   - echo > + nome do arquivo --> criar novo arquivo
+  - echo "texto arquivo" >> nome do arquivo --> para criar texto dentro de determinado arquivo
   - ssh-keygen -t ed25519 -C (maiúsco) + e-mail (para cadastro de acordo com github net) --> para gerar a chave SSH pública e privada
   - cat id_ed25519.pub --> para mostrar a chave SSH pública caso queira copiar para o Git Hub net (Comando deve ser executado dentro da pasta que esta a chave)
   - pwd --> mostra o caminho completo das pastas acessadas até o momento
