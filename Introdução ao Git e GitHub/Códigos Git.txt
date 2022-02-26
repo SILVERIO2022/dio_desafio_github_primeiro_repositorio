@@ -10,3 +10,4 @@ mk dir + nome da pasta --> criar nova pasta
 rm dir + nome da pasta --> remover pasta
 echo > + nome do arquivo --> criar novo arquivo
 
+
