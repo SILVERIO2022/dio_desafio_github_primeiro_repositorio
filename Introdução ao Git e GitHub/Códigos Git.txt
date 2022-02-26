@@ -1,0 +1,7 @@
+ls --> mostrar lista de pastas e/ou arquivos
+cd  + nome da pasta ou arquivo --> abrir pasta ou arquivo
+cd .. --> voltar um nível na pasta atual
+ctrl + l --> limpar tela
+git status --> saber se os arquivos da pasta já estão comitado
+git add . / git add*/ git add -a --> adicionar pastas ou arquivos para fazer o commite
+git push --> para commitar (mandar para  o git web) pastas e/ou arquivos para o repositório on line
