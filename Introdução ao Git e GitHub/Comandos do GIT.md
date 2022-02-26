@@ -21,3 +21,5 @@
   -  eval $(ssh-agent -s) - Segunda etapa para executar a chave SSH
   - ssh-add id_ed25519 --> Adicionar a chave SSH privada
   - git clone --> para clonar um diretório do GitHub net para a máquina local (sempre pegar o endereço do SSH e não o HTTPS)
+
+## Agora vai
