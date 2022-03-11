@@ -7,9 +7,12 @@
   - cd  + nome da pasta ou arquivo --> abrir pasta ou arquivo
   - cd .. --> voltar um nível na pasta atual
   - ctrl + l --> limpar tela
+  - git init --> para gerar um novo diretório on line (precisa executar o comando na pasta desejada)
   - git status --> saber se os arquivos da pasta já estão comitado
-  - git add . / git add*/ git add -a --> adicionar pastas ou arquivos para fazer o commite
-  - git push origin main ou master --> para commitar (mandar para  o git web) pastas e/ou arquivos para o repositório on line
+  - git diff --> para saber o que foi alterado em determinado arquivo
+  - git add . / git add */ git add -a --> adicionar pastas ou arquivos para fazer o commite
+  - git commit -m + "descrição do comite" --> para realizar o commite
+  - git push -u origin main ou master --> para commitar (mandar para  o git web) pastas e/ou arquivos para o repositório on line
   - git pull origin main ou master --> para baixar o arquivo do GitHub (on line) que está modificado on line e diferente do repositório local do pc.
   - mkdir + nome da pasta --> criar nova pasta
   - rmdir + nome da pasta --> remover pasta
@@ -21,6 +24,6 @@
   -  eval $(ssh-agent -s) - Segunda etapa para executar a chave SSH
   - ssh-add id_ed25519 --> Adicionar a chave SSH privada
   - git clone --> para clonar um diretório do GitHub net para a máquina local (sempre pegar o endereço do SSH e não o HTTPS)
-pode baixar por HTTPS também
+  pode baixar por HTTPS também
 
-## Agora vai 
+## Agora vai
