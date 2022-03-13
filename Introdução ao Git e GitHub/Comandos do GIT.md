@@ -10,10 +10,11 @@
   - git init --> para gerar um novo diretório on line (precisa executar o comando na pasta desejada)
   - git status --> saber se os arquivos da pasta já estão comitado
   - git diff --> para saber o que foi alterado em determinado arquivo
-  - git add . / git add */ git add -a --> adicionar pastas ou arquivos para fazer o commite
+  - git add . / git add */ git add -a /git add --all --> adicionar pastas ou arquivos para fazer o commite
   - git commit -m + "descrição do comite" --> para realizar o commite
   - git push -u origin main ou master --> para commitar (mandar para  o git web) pastas e/ou arquivos para o repositório on line
   - git pull origin main ou master --> para baixar o arquivo do GitHub (on line) que está modificado on line e diferente do repositório local do pc.
+  - git branch -m master main --> para mudar de MASTER para MAIN
   - mkdir + nome da pasta --> criar nova pasta
   - rmdir + nome da pasta --> remover pasta
   - echo > + nome do arquivo --> criar novo arquivo
